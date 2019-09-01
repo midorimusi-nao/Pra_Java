@@ -1,3 +1,6 @@
+//自分が試しでスクレイピングするように作成
+//加えて紛失防止用です。コメント全然書いてないので見づらいかと...
+
 import java.io.*;
 import java.util.*;
 import java.text.Normalizer;
